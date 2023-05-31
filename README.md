@@ -1,8 +1,8 @@
-# postgal
+# post gallery
 # 작성자 : 최은혜
 # 설명
 ## 반응형 웹사이트
-git-pages : 
+git-pages : https://choieh.github.io/pf-gallery/
 
 ### spec
 - HTML, CSS, jquery
